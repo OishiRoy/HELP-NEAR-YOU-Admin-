@@ -1,0 +1,18 @@
+G:\C#\HELP NEAR YOU(Admin)\bin\Debug\HELP NEAR YOU(Admin).exe.config
+G:\C#\HELP NEAR YOU(Admin)\bin\Debug\HELP NEAR YOU(Admin).exe
+G:\C#\HELP NEAR YOU(Admin)\bin\Debug\HELP NEAR YOU(Admin).pdb
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP NEAR YOU(Admin).csproj.AssemblyReference.cache
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.AdminDashboard.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.Form1.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.Properties.Resources.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP NEAR YOU(Admin).csproj.GenerateResource.cache
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP NEAR YOU(Admin).csproj.CoreCompileInputs.cache
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP NEAR YOU(Admin).exe
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP NEAR YOU(Admin).pdb
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.AddServant.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.UpdateServant.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.AddUpdate.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.Add_Client.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.UpdateClient.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.DeleteMember.resources
+G:\C#\HELP NEAR YOU(Admin)\obj\Debug\HELP_NEAR_YOU_Admin_.Search.resources
